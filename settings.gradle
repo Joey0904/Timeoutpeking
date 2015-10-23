@@ -1,0 +1,2 @@
+include ':app', 'SLM:library'
+include ':VPIndicator_library'

@@ -1,0 +1,5 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--  tv可用  -->
+    <item android:drawable="@drawable/menu_arr_select" android:state_enabled="true"/>
+    <item android:drawable="@drawable/menu_arr_normal" android:state_enabled="false"/>
+</selector>
